@@ -1,0 +1,6 @@
+check for new version:
+ota_updater.check_for_update_to_install_during_next_reboot()
+
+grab new version and reboot:
+machine.reset()
+
